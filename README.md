@@ -24,11 +24,11 @@ This container is made by Shahinur Alam (sajonbuet@gmail.com)
 
 %post
 
-	#pip install numpy pandas sklearn webcolors plotly matplotlib statsmodels factorial pynrrd pillow
-	#pip install torch
-	#pip install scikit-image medpy Tables tensorflow_addons nilearn SimpleITK h5py glob3 nibabel tifffile scipy opencv-python
-	#pip install --upgrade keras
-	pip install tensorflow-gpu==2.2.0	
+	pip install numpy pandas sklearn webcolors plotly matplotlib statsmodels factorial pynrrd pillow
+	pip install torch
+	pip install scikit-image medpy Tables nilearn SimpleITK h5py glob3 nibabel tifffile scipy opencv-python
+	pip install --upgrade keras
+	
 			
 
 %runscript
